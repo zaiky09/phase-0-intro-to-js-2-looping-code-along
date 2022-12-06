@@ -24,7 +24,7 @@ wrapGifts(gifts);
 
 //ASSIGNMENT
 
-const names = ["Guandalupe", "Ollie", "AKi"];
+const names = ["Guandalupe", "Ollie", "Aki"];
 const event = "surprise";
 
 function writeCards(names, event) {
